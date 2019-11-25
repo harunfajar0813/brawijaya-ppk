@@ -1,0 +1,17 @@
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\TantanganUTS.exe.config
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\TantanganUTS.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\TantanganUTS.pdb
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.Form1.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.Properties.Resources.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.csproj.GenerateResource.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.pdb
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\MySql.Data.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\Google.Protobuf.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\Renci.SshNet.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\bin\Debug\MySql.Data.xml
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.csproj.CopyComplete
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\TantanganUTS\obj\Debug\TantanganUTS.Form2.resources

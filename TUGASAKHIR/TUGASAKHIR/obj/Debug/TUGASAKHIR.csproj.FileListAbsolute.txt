@@ -1,0 +1,40 @@
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.exe.config
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.exe
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.pdb
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csprojAssemblyReference.cache
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.Properties.Resources.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.GenerateResource.cache
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.CoreCompileInputs.cache
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.exe
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.pdb
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmPilihKomisi.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.FormKirim.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmAspirasi.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmDetailAspirasi.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmLogin.resources
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\MySql.Data.dll
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\Google.Protobuf.dll
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\Renci.SshNet.dll
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\bin\Debug\MySql.Data.xml
+C:\Users\HBKC9\source\repos\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.CopyComplete
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.exe.config
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\TUGASAKHIR.pdb
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\MySql.Data.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\Google.Protobuf.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\Renci.SshNet.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\bin\Debug\MySql.Data.xml
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.FormKirim.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmAspirasi.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmDetailAspirasi.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmLogin.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.frmPilihKomisi.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.Properties.Resources.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.GenerateResource.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.csproj.CopyComplete
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\brawijaya-ppk\TUGASAKHIR\TUGASAKHIR\obj\Debug\TUGASAKHIR.pdb

@@ -1,0 +1,10 @@
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\bin\Debug\Laporan2.exe.config
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\bin\Debug\Laporan2.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\bin\Debug\Laporan2.pdb
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.Form1.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.Properties.Resources.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.csproj.GenerateResource.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan2\obj\Debug\Laporan2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\Laporan4.exe.config
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\Laporan4.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\Laporan4.pdb
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\MySql.Data.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\Google.Protobuf.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\Renci.SshNet.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\bin\Debug\MySql.Data.xml
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.csprojAssemblyReference.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.Form1.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.Properties.Resources.resources
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.csproj.GenerateResource.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.csproj.CopyComplete
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.exe
+C:\Users\Harun\Documents\Brawijaya\pemrograman platform khusus\repo\Laporan4\obj\Debug\Laporan4.pdb
