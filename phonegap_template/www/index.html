@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Challenge</title>
+
+    <!-- Load assets -->
+    <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <style>
+    td{
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+    .ui-page { 
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4wDg3CG1bhRjER4NTyUWvRGc1djIQiIRegL_K0eXf2MMYWjuK');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .ui-btn-custom {
+        border: 2px solid;
+    }
+    body{
+    }
+    </style>
+</head>
+
+<body>
+    <div data-role="page" id="page-one">
+        <div data-role="header" class="">
+            <h1>Kartu Keluarga</h1>
+        </div>
+        
+        <div role="main" class="ui-content" id="bagian-byKK">
+            <div class="ui-field-contain">
+                <button class="ui-btn-custom" onclick="Application.searchByKK()">Cari By Nomer KK</button>
+            </div>
+            <div class="ui-field-contain">
+                <button class="ui-btn-custom" onclick="Application.searchList()">Lihat List</button>
+            </div>
+        </div>
+    </div>
+
+    <div data-role="page" id="page-two">
+        <div data-role="header">
+            <h1>Cari No KK</h1>
+        </div>
+
+        <div role="main" class="ui-content" >
+            <div class="ui-field-contain">
+                <input type="number" name="inputKK" id="inputKK">
+                <button class="ui-btn-custom" onclick="Application.searchByKKResult()" id="trigger-cari">Cari</button>
+            </div>
+        </div>
+    </div>
+
+    <div data-role="page" id="page-two-result">
+        <div data-role="header">
+            <h1>Hasil By KK</h1>
+        </div>
+
+        <div role="main" class="ui-content" id="bagian-list">
+            <div class="ui-field-contain">
+                <ul id="id-semua">
+                    <li id="id_survey"></li>
+                    <li id="nokk"></li>
+                    <li id="nama"></li>
+                    <li id="alamat"></li>
+                </ul>
+            </div>
+        </div>
+        <center>
+            <img src="" id="gambar_ea" width="200" height="200">
+        </center>
+    </div>
+
+    <div data-role="page" id="page-three">
+        <div data-role="header">
+            <h1>Banyak List</h1>
+        </div>
+
+        <div role="main" class="ui-content">
+            <div class="ui-field-contain">
+                <input type="number" name="jumlahList" id="jumlahList">
+                <button class="ui-btn-custom" onclick="Application.searchListResult()">Ambil</button>
+            </div>
+        </div>
+    </div>
+
+    <div data-role="page" id="page-three-result">
+        <div data-role="header">
+            <h1>Banyak List</h1>
+        </div>
+
+        <div role="main" class="ui-content">
+            <div class="ui-field-contain">
+                <center>
+                    <table id="id-searchlist"></table>
+                </center>
+            </div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
